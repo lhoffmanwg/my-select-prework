@@ -1,4 +1,4 @@
-def my_select(collection)
+filter_parameter_loggingdef my_select(collection)
   i = 0 
   new_array = 0 
   while i < collection.length do
